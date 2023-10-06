@@ -6,6 +6,6 @@
 
 # Navigation Bar
 ![image](https://github.com/Soumya2602/GameWebsiteLandingPage/assets/102344162/8c42ecac-a8b6-4038-b7f5-3ef501245ce9)
-
+# Responsive
 ![image](https://github.com/Soumya2602/GameWebsiteLandingPage/assets/102344162/73c27bbe-3c23-440e-bc97-775bdfbd3a7e)
 ![image](https://github.com/Soumya2602/GameWebsiteLandingPage/assets/102344162/09cdbe5c-440a-4498-af0a-10731ffa6bff)
